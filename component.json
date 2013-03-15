@@ -1,0 +1,17 @@
+{
+  "name": "save-as",
+  "repo": "CamShaft/save-as",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "component/each": "*"
+  },
+  "development": {
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
